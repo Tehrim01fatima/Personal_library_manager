@@ -1,0 +1,1 @@
+[{"title": "Millionaire in One Second", "author": "Tehrim", "year": 2025, "genre": "Mystery", "read": true}, {"title": "Rich in one sec", "author": "Tehrim", "year": "2025", "genre": "millionare", "read": true}, {"title": "poor in one sec", "author": "Tehrim ", "year": "2030", "genre": "gareeb", "read": true}]
